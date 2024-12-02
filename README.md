@@ -7,5 +7,3 @@ Problems:
 <!-- MDFT . !include_files,max_depth=2 -->
 - [Web/](Web)
 	- [GuessyCTFSolver/](Web/GuessyCTFSolver)
-- [.github/](.github)
-	- [workflows/](.github/workflows)
