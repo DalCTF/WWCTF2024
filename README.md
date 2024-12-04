@@ -5,5 +5,7 @@ Archive of the problems from the World Wide CTF 2024 competition.
 Problems:
 
 <!-- MDFT . !include_files,max_depth=2 -->
+- [Misc/](Misc)
+	- [Bongcloud/](Misc/Bongcloud)
 - [Web/](Web)
 	- [GuessyCTFSolver/](Web/GuessyCTFSolver)
