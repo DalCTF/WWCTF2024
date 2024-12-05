@@ -6,6 +6,7 @@ Problems:
 
 <!-- MDFT . !include_files,max_depth=2 -->
 - [Misc/](Misc)
+	- [AllYourBasesAreBelongToUs/](Misc/AllYourBasesAreBelongToUs)
 	- [Bongcloud/](Misc/Bongcloud)
 - [Web/](Web)
 	- [GuessyCTFSolver/](Web/GuessyCTFSolver)
