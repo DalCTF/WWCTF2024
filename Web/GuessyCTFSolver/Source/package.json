@@ -1,0 +1,12 @@
+{
+    "name": "guessy-ctf-solver",
+    "version": "1.0.0",
+    "main": "api.js",
+    "scripts": {
+        "start": "node api.js"
+    },
+    "dependencies": {
+        "express": "=4.18.2",
+        "happy-dom": "=15.10.0"
+    }
+}
